@@ -1,3 +1,1 @@
-# springboot-skeleton
-
-Springboot Project Skeleton
+# Diagnostics Spring Boot
